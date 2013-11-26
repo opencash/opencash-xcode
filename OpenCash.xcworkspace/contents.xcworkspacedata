@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:../opencash-framework/OpenCash-Framework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../opencash-osx/OpenCash-OSX.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../opencash-ios/OpenCash-iOS.xcodeproj">
+   </FileRef>
 </Workspace>
