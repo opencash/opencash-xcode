@@ -5,9 +5,9 @@
       location = "group:../opencash-framework/OpenCash-Framework.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../opencash-osx/OpenCash-OSX.xcodeproj">
+      location = "group:../opencash-ios/OpenCash-iOS.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../opencash-ios/OpenCash-iOS.xcodeproj">
+      location = "group:../opencash-osx/OpenCash-OSX.xcodeproj">
    </FileRef>
 </Workspace>
