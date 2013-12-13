@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../opencash-framework/OpenCash-Framework.xcodeproj">
+      location = "group:../opencash-cocoa/OpenCash-Framework.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:../opencash-ios/OpenCash-iOS.xcodeproj">
